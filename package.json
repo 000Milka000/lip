@@ -1,0 +1,14 @@
+{
+  "name": "lip",
+  "version": "1.0.0",
+  "description": "��#\u0000l\u0000i\u0000p\u0000\r\u0000 \u0000",
+  "main": "lip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-url": "^1.2.4"
+  }
+}
